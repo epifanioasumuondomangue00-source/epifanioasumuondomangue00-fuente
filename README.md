@@ -26,7 +26,7 @@ Mi objetivo es seguir aprendiendo, adquirir conocimiento y experiencia profesion
 - Configuracion y uso basico de windows
 - Comandos basicos y avanzado de red en cmd
 - Gestion basica de archivos y carpetas
-- 
+
 #### - Programación y desarrollo 
 - HTML y estructura básica de paginas web
 - Python a nivel medio
