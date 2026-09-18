@@ -32,7 +32,6 @@ Mi objetivo es seguir aprendiendo, adquirir conocimiento y experiencia profesion
 - Python a nivel medio
 - Visual Estudio Code
 - Conceptos basicos de programacion
-- 
 #### - Ofimatica
 - Microsoft Word
 - Microsoft Excel
