@@ -1,0 +1,54 @@
+{
+  "nombre_completo": "Epifanio Asumu Ondo Mangue",
+  "titulo": "Estudiante de informática | principalmente en sistemas y redes",
+  "resumen": "Actualmente estoy estudiando Administración de sistemas informáticos en red (ASIR) y busco una oportunidad para realizar prácticas en una empresa del sector informático. Mi objetivo es seguir aprendiendo, adquirir conocimiento y experiencia profesional y poner en práctica los conocimientos que estoy desarrollando durante mis estudios en CEACFP.",
+  "sobre_mi": [
+    "Soy estudiante de Administración de sistemas informáticos en red",
+    "Nivel medio en informática y sistemas",
+    "Interés en sistemas, redes, y soporte informático",
+    "Actualmente aprendiendo y mejorando mis conocimientos",
+    "Interesado en aprender dentro de un equipo profesional",
+    "Motivado para resolver problemas y adquirir experiencia práctica",
+    "Me gusta trabajar en equipo porque la confianza lo es todo para mí"
+  ],
+  "conocimientos": {
+    "sistemas_y_redes": [
+      "Conceptos básicos de sistemas operativos",
+      "Conceptos básicos de redes",
+      "Configuración y uso básico de Windows",
+      "Comandos básicos y avanzados de red en cmd",
+      "Gestión básica de archivos y carpetas"
+    ],
+    "programacion_y_desarrollo": [
+      "HTML y estructura básica de páginas web",
+      "Python a nivel medio",
+      "Visual Studio Code",
+      "Conceptos básicos de programación"
+    ],
+    "ofimatica": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ]
+  },
+  "actualmente_aprendiendo": [
+    "Administración de sistemas",
+    "Redes informáticas",
+    "Implantación de sistemas operativos",
+    "HTML y desarrollo web",
+    "Python",
+    "Herramientas y tecnologías utilizadas en entornos empresariales"
+  ],
+  "objetivo_de_practica": {
+    "descripcion": "Busco una empresa donde pueda realizar mis prácticas y desarrollar experiencia en áreas como:",
+    "areas": [
+      "Soporte técnico",
+      "Sistemas y redes",
+      "Mantenimiento de equipos",
+      "Administración de sistemas",
+      "Atención y soporte a usuarios",
+      "Desarrollo web básico"
+    ],
+    "nota_final": "Estoy abierto a aprender nuevas tecnologías y asumir nuevos retos"
+  }
+}
