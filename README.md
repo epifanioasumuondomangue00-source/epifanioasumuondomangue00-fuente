@@ -7,6 +7,14 @@ Mi objetivo es seguir aprendiendo, adquirir conocimiento y experiencia profesion
 
 ---
 
+# Datos personales
+### Nombre: Epifanio asumu ondo mangue
+### Direccion: Torrent, Vicent blasco ibañez 26
+### Email: epifanioasumuondomangue00@gmail.com
+### Telefono: 673081702
+
+---
+
 # Sobre mí 
 * Soy estudiante de **Administracion de sistemas informaticos en red**
 * Nivel medio en informatica y sistemas
