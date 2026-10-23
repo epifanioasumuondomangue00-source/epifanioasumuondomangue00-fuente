@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Mifondo;
+    src: url("Fuentes/Roboto-LightItalic.ttf");
+}
+
+
+    body{
+background-color: grey;
+}
+main{
+width: 250mm;
+height:380mm;
+display: flex;
+margin:auto;
+}
+#Izquierda{
+flex: 2; 
+background-color: navy;
+img{
+    width: 100%;
+}
+
+h2{
+background-color: rgb(42, 134, 134);
+text-align: center;
+color: white;
+border: 50px;
+}
+p{
+    color: white;
+}
+
+#nacimiento{
+p{color: white;}
+
+}
+}
+#Derecha{
+flex: 3;
+background-color: white;
+padding: 60px 15px;
+text-align: justify;
+font-family: Arial;
+p{font-family: 'Times New Roman', sans-serif;}
+}
+#Derecha h3{
+    margin-top: 70px;
+}
+hr{
+    border: none;
+    height: 5px;
+    width: 100%;
+    background-color: navy;
+}
+h1{
+font-family: 'Arial', sans-serif;
+}
+#nacimiento p{
+text-align: center;
+font-family: 'Times New Roman', Times, sans-serif;
+font-size: large;
+}
+#text_izquierdo p{
+font-size: 18px;
+}
+#text_izquierdo a{
+    font-size: 16px;
+    color: white;
+    }
+    #text_izquierdo a:hover{
+        color: blue;
+        }

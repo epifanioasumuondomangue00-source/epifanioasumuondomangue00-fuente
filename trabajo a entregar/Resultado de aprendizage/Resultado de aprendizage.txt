@@ -1,0 +1,36 @@
+a) Se han identificado las características generales de los lenguajes de marcas.
+Si se han utilizado e3n lo que son en todos mis proyectos, por ejemplo: 
+* que el texto es legible 
+* Uso etiquetas que lo describen 
+* Organiza La información 
+* Los elementos se anidan en forma de árbol 
+* Legibles por personas y por maquinas 
+* pude realizarlo con cualquier documento de editor de texto 
+
+
+b) Se han reconocido las ventajas que proporcionan en el tratamiento de la información.
+
+* Faciles de leer 
+* Independientes de la plataforma 
+* estructura clara y jerargica
+* Ligero y de bajo coste
+
+c) Se han clasificado los lenguajes de marcas e identificado los más relevantes.
+sí aprendí lo siguiente:
+- Clasificación 
+* Descriptivos o Semanticos: XML
+* Documentación: Markdown
+-Mas Relevancia
+* XML
+* Markdown
+
+d) Se han diferenciado sus ámbitos de aplicación.
+* sí:
+Para intercambio de datos entre aplicaciones: el XML permite que sistemas distintos se pasen información en un formato común.
+Para documentación y publicación de contenidos: Markdown lo use para generar el curiculum en mi github
+
+e) Se han reconocido la necesidad y los ámbitos específicos de aplicación de un lenguaje de marcas de propósito general.
+f) Se han analizado las características propias de diferentes lenguajes de marcas.
+g) Se ha identificado la estructura de un documento y sus reglas sintácticas.
+h) Se ha contrastado la necesidad de crear documentos bien formados y la influencia en su procesamiento.
+i) Se han identificado las ventajas que aportan los espacios de nombres.
