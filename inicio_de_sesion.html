@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Iniciar sesión</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  form {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 { margin-top: 0; font-size: 24px; }
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  button {
+    width: 100%;
+    padding: 10px;
+    background: #2f4bd8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #correos{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #contraseñas{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #mensaje { margin-top: 12px; text-align: center; font-size: 14px; }
+/*Css*/
+</style>
+
+</head>
+<body>
+
+<form id="login">
+  <h1>Iniciar sesión</h1>
+  <label for="correo", id="correos">Correo Electronico</label>
+  <input type="email" id="email" placeholder="ejemplo@example.com">
+  <label for="contraseña", id="contraseñas">Contraseña</label>
+  <input type="password" id="clave" >
+  <button type="submit">Entrar</button>
+  <p id="mensaje"></p>
+</form>
+
+<script>
+    //javaScipt
+  document.getElementById("login").addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    var email = document.getElementById("email").value;
+    var clave = document.getElementById("clave").value;
+    var mensaje = document.getElementById("mensaje");
+
+    if (email === "" || clave === "") {
+      mensaje.style.color = "red";
+      mensaje.textContent = "Rellena todos los campos.";
+    } else {
+      mensaje.style.color = "green";
+      mensaje.textContent = "Sesión iniciada.";
+    }
+  });
+</script>
+
+</body>
+</html>
